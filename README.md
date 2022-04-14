@@ -25,18 +25,22 @@
 <img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/47731377/116507191-120d1800-a8bf-11eb-889e-4053868403f3.png" />
 <img align="left" alt="google colab" width="40px" src="https://user-images.githubusercontent.com/47722373/163313415-f069dfac-9f9b-491c-9863-cbef01acdb1b.png"/>
 <img align="left" alt="JupyterLab" width="26px" src="https://user-images.githubusercontent.com/47722373/163313409-78c4eb4c-9a62-4b4e-b28d-9ac2f816c6c9.svg"/>
-
 <img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/47731377/116506732-28ff3a80-a8be-11eb-8f20-6a1be2591ea6.png" />
 <img align="left" alt="Trello" width="26px" src="https://user-images.githubusercontent.com/47731377/116507012-c5294180-a8be-11eb-9890-d5fcc089ed33.png" />
 <img align="left" alt="Figma" width="20px" src="https://user-images.githubusercontent.com/47722373/163313763-aabdd6d7-9287-4761-b8ae-89fba634f0f8.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/47731377/116506791-4b915380-a8be-11eb-939c-4cae75981bfc.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/47731377/116501309-bfc4fa80-a8b0-11eb-9bda-dde2a7c5036d.png" />
-<img align="left" alt="Console" width="26px" src="https://user-images.githubusercontent.com/47731377/116507010-c490ab00-a8be-11eb-8baa-a3fca7487535.png" />
+<img align="left" alt="Console" width="26px" src="https://user-images.githubusercontent.com/47731377/116507010-c490ab00-a8be-11eb-8baa-a3fca7487535.png" />  
+
 
 <br />
-<br />
+<br />  
 
----
+
+
+---  
+
+
 ### 👨‍💻 Stats
 
 <div>
