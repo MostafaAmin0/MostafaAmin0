@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently software engineer and Mobile Application Developmer 
+- 🔭 I’m currently Software Engineer and Mobile Application Developmer 
 - 🌱 I’m currently learning Computer Vision & Backend & Compiler Design 
 - 👯 I’m looking to collaborate on more and more projects 😅
 - 📫 How to reach me: 
