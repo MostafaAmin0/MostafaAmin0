@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently Software Engineer and Mobile Application Developer 
-- 🌱 I’m currently learning Computer Vision & Backend & Compiler Design 
+- 🌱 I’m currently learning Backend & Compiler Design 
 - 👯 I’m looking to collaborate on more and more projects 😅
 - 📫 How to reach me: 
   - [G-Mail](https://mostafa.aminmk@gmail.com)
