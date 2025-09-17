@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently Software Engineer and .Net Backend developer Developer 
+- 🔭 I’m currently .Net Backend developer Developer who seeks to learn DevOps and AI
 - 🌱 I’m currently learning kubernetes and Docker  
 - 👯 I’m looking to collaborate on more and more projects 😅
 - 📫 How to reach me: 
